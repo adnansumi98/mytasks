@@ -1,0 +1,13 @@
+#task-form{
+  display:flex;
+  flex-direction:column;
+}
+.main-container{
+  display:flex;
+  flex-direction:row;
+}
+
+#tagsSelector{
+  display:flex;
+  list-style:none;
+}
